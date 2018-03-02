@@ -1,5 +1,5 @@
-<p>This mod is focused around magic. It is separated in three 'ages' that you have to progress through. As of yet there are "Totemic", "Celestial" and "Mirror" ages. The Divination Mod adds quite a lot of magic in your world and is very good in magical modpacks.</p>
-<p>To begin the mod, you should find Ore of the Mysterium and mine it. You would get a few mysterium clusters. Grind them in a bowl with a flint in your 2x2 crafting inventory. What will happen next? Well, that part you should discover yourself.</p>
+<p>This mod is focused around magic. It is separated in three 'ages' that you have to progress through. As of yet there are "<i18n:custom:divination_module.totemic>", "<i18n:custom:divination_module.mirror>" and "<i18n:custom:divination_module.celestial>" ages. <modname> adds quite a lot of magic in your world and is very good in magical modpacks.</p>
+<p>To begin the mod, you should find <i18n:block:divinationmod:mysterium_ore> and mine it. You would get a few <i18n:item:divinationmod:mysterium_cluster>. Grind them in a <i18n:item:minecraft:bowl> with a <i18n:item:minecraft:flint> in your 2x2 crafting inventory. What will happen next? Well, that part you should discover yourself.</p>
 <p>One thing for sure, this mod is going to greatly change your survival, make it more interesting but dangerous.</p>
-<p>Good part about the mod is that everything in the mod could be obtained even on public servers, making the mod good for single-and-multi-player.</p>
-<p>Our team hopes that you will accept this mod and play it for your own pleasure.</p>
+<p>Good part about the mod is that everything in the mod could be obtained even on public servers, making it good for single-and-multi-player.</p>
+<p>Our team hopes that you will accept this mod and play it for your own pleasure!</p>
